@@ -1,0 +1,34 @@
+.experience 
+{
+    text-align: left;
+    padding: 20px;
+}
+  
+.experience h1 
+{
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+  
+.experience h2 
+{
+    font-size: 1.8rem;
+    color: #0077B5;
+    margin-top: 20px;
+}
+  
+.experience h3 
+{
+    font-size: 1.4rem;
+    color: #333;
+    margin-top: 10px;
+    font-weight: bold;
+}
+  
+.experience p
+{
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: 10px;
+}

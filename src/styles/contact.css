@@ -1,0 +1,35 @@
+.contact 
+{
+    text-align: center;
+    padding: 20px;
+}
+ 
+.contact h2 
+{
+    font-size: 2rem;
+    color: #333;
+}
+  
+.contact p 
+{
+    font-size: 1.2rem;
+    color: #666;
+}
+  
+.contact ul 
+{
+    list-style: none;
+    padding: 0;
+}
+  
+.contact li 
+{
+    font-size: 1.2rem;
+    color: #666;
+}
+  
+.contact a 
+{
+    text-decoration: none;
+    color: #0077B5;
+}

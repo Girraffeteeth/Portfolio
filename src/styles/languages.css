@@ -1,0 +1,23 @@
+.languages 
+{
+    text-align: center;
+    padding: 20px;
+}
+  
+.languages h2 
+{
+    font-size: 2rem;
+    color: #333;
+}
+  
+.languages ul 
+{
+    list-style: none;
+    padding: 0;
+}
+  
+.languages li 
+{
+    font-size: 1.2rem;
+    color: #666;
+}

@@ -1,0 +1,17 @@
+.certifications 
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.certifications h2
+{
+    font-size: 2rem;
+    color: #333;
+}
+  
+.certifications p 
+{
+    font-size: 1.2rem;
+    color: #666;
+}
